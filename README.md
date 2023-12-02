@@ -2,3 +2,4 @@
 
 parecido com a pos 
 Java spring 
+banco PostgreSQL 
